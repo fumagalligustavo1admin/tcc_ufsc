@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==============================================================================
+# Pastas de Dados Específicas do TCC (Confidencial)
+# ==============================================================================
+
+# Bloqueia completamente a pasta com os 2 milhões de dados REAIS da distribuidora
+BASE_EXPERIMENTAL/
+
+# Se você decidiu que NÃO vai subir nem a base falsa/sintética, descomente a linha abaixo:
+# BASE_EXPERIMENTAL_TESTE/
